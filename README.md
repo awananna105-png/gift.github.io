@@ -466,7 +466,7 @@
             transform: translateY(-5px);
             box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
         }
-@media (max-width: 1100px) {
+@media (max-width: 700px) {
     .main-title {
         font-size: 4rem;
     }
